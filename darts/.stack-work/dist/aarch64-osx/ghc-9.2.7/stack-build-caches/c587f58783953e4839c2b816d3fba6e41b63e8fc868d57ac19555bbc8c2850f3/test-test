@@ -1,0 +1,12 @@
+/Users/ajayliu/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/aarch64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/ajayliu/Exercism/haskell/darts/.stack-work/dist/aarch64-osx/ghc-9.2.7/build/test/autogen/Paths_darts.hs:
+  hash: 551b930204dff88e1d285a98e0ef067caae5d9cd7b735cad13932cd17f82f8dd
+/Users/ajayliu/Exercism/haskell/darts/.stack-work/dist/aarch64-osx/ghc-9.2.7/build/test/autogen/cabal_macros.h:
+  hash: b9c413d4525a05f8b0a21d3b0a44f6938840a1746abf6f784da71fa2d5042260
+/Users/ajayliu/Exercism/haskell/darts/darts.cabal:
+  hash: 11e0c0877b8ecbcb049c39714d068fc32dd6af3992b9b499c1f52e2a6cdcfd67
+/Users/ajayliu/Exercism/haskell/darts/package.yaml:
+  hash: 32a11a0c6b50b3de3d10a8d40e443a2dd95888c8a05adff6368ee05d3aa02c42
+/Users/ajayliu/Exercism/haskell/darts/test/Tests.hs:
+  hash: b5cb5a9dcbf02af817a79be61644c77400b7abbacc7ac0cb196a575382531cfc

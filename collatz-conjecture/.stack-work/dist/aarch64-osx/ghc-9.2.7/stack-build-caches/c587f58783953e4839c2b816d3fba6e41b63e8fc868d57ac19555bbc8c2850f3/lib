@@ -1,0 +1,12 @@
+/Users/ajayliu/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/aarch64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/ajayliu/Exercism/haskell/collatz-conjecture/.stack-work/dist/aarch64-osx/ghc-9.2.7/build/autogen/Paths_collatz_conjecture.hs
+: hash: 23d1581fc7e5554c8f6b77bcc4bfe353abc49da634ac833786e7e030ebcd2333
+/Users/ajayliu/Exercism/haskell/collatz-conjecture/.stack-work/dist/aarch64-osx/ghc-9.2.7/build/autogen/cabal_macros.h:
+  hash: 95cee8b891a870fcbf7ad71a8e4df7f113783a95c22935820013d7b87743acf7
+/Users/ajayliu/Exercism/haskell/collatz-conjecture/collatz-conjecture.cabal:
+  hash: 22fbcc5d8a2117e82f41f47d438312bedcf5ab90c2f845debaa9eb6739a15c42
+/Users/ajayliu/Exercism/haskell/collatz-conjecture/package.yaml:
+  hash: e04e546810251e29e1b3a5bae523e047724b2e3b36899b4d241b93721a71f1a4
+/Users/ajayliu/Exercism/haskell/collatz-conjecture/src/CollatzConjecture.hs:
+  hash: fd71cdb7ab8e59f87e86414ebc6b5c7b4ac1ad32c7da85b5c65f53d0a57477b3

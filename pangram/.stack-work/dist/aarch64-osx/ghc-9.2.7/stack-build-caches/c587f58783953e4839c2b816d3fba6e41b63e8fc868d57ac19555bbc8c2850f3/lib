@@ -1,0 +1,12 @@
+/Users/ajayliu/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/aarch64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/ajayliu/Exercism/haskell/pangram/.stack-work/dist/aarch64-osx/ghc-9.2.7/build/autogen/Paths_pangram.hs:
+  hash: e956a3ff0e490f0cc99a158812c524036730d8b93f0786d8ec593a993143edd5
+/Users/ajayliu/Exercism/haskell/pangram/.stack-work/dist/aarch64-osx/ghc-9.2.7/build/autogen/cabal_macros.h:
+  hash: 91cbff7c34344daa5f7b416a9887f9ee5f1690f5fbe6afed386bfdcdff38b1b6
+/Users/ajayliu/Exercism/haskell/pangram/package.yaml:
+  hash: bb27d54d44cd13fe87455b5f8fd55fcdc631b7678fdfb9ba651bfc6b3c72d5ae
+/Users/ajayliu/Exercism/haskell/pangram/pangram.cabal:
+  hash: fe1052e659e4f08bdbbf1b14eda74a434c2544cc9066e93afc76e1ecf72a2b70
+/Users/ajayliu/Exercism/haskell/pangram/src/Pangram.hs:
+  hash: fd54ed1a61a3b9bfb5c0a502fe57ebced69124b1734bf6bd7a35a65e26cf894a
